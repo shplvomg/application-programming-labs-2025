@@ -1,0 +1,5 @@
+genre,abs_path,rel_path,url,filename,duration
+country,/Users/awfulxc/Documents/Прикладное Программирование/lab2/downloads/country_001_687.mp3,country_001_687.mp3,https://assets.mixkit.co/music/687/687.mp3,country_001_687.mp3,2:10
+country,/Users/awfulxc/Documents/Прикладное Программирование/lab2/downloads/country_002_789.mp3,country_002_789.mp3,https://assets.mixkit.co/music/789/789.mp3,country_002_789.mp3,5:22
+country,/Users/awfulxc/Documents/Прикладное Программирование/lab2/downloads/country_003_794.mp3,country_003_794.mp3,https://assets.mixkit.co/music/794/794.mp3,country_003_794.mp3,3:47
+country,/Users/awfulxc/Documents/Прикладное Программирование/lab2/downloads/country_004_705.mp3,country_004_705.mp3,https://assets.mixkit.co/music/705/705.mp3,country_004_705.mp3,3:41
